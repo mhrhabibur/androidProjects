@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="button_name_1">নিজের জন্য</string>
+    <string name="button_name_2">অন্য রোগীর জন্য </string>
+    <string name="text_name_1">আমি ডাক্তার খুঁজছি</string>
+    <string name="text_name_2">উক্ত রোগীর সংক্ষিপ্ত বিবরণ </string>
+    <string name="text_name_3">নাম </string>
+    <string name="text_name_4">বয়স</string>
+    <string name="text_name_5">বছর</string>
+    <string name="text_name_6">মাস </string>
+    <string name="text_name_7">লিঙ্গ </string>
+    <string name="text_name_8">পুরুষ</string>
+    <string name="text_name_9">মহিলা</string>
+    <string name="text_name_10">সম্পর্ক </string>
+    <string name="text_name_11">পরবর্তী </string>
+
+</resources>
